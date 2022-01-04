@@ -70,5 +70,9 @@ content:"/etc/shadow";sid:1000001;)
 * Elastic : enlever port 9243 dans l'url
 * syslog pas tcp que udp "@ nom host + adresse ip" et pas de port
 
+## Rapport TP : 
+
+https://docs.google.com/document/d/1KyPuZO2iMvVPAw2-JdoelhmfSNIDyv-Au7bPT9Xuitk/edit?usp=sharing
+
 
 
