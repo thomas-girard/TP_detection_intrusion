@@ -9,7 +9,7 @@ Les logs dans sont var/log/suricata
 
 ## 3.1
 
-* sudo suricata-update enable-source oisf/trafficid
+* sudo suricata-update enable-source et/open
 
 * Suricata est lent, c'est normal
 
