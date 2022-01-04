@@ -2,6 +2,8 @@
 
 Les règles sont dans /var/lib/suricata/rules/suricata.rules
 
+fichier de configuration : /etc/suricata/suricata.yaml
+
 Les logs dans sont var/log/suricata
 
 
